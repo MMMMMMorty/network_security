@@ -1,1 +1,4 @@
 **/.vagrant/
+**/*_key.sh
+VPN/client1.conf
+VPN/client1_bridge.conf
